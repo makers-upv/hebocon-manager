@@ -83,7 +83,7 @@ Una vez generado el torneo,
   * Mejoras en el workflow del programa
   
   
-  ***
+***
   
   
 2017 Héctor-G.
