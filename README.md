@@ -11,15 +11,23 @@ La aplicación permite:
   * Generar emparejamientos automáticamente.
   * Editar los emparejamientos durante el torneo.
 
+***
+
 
 ### Cómo incluir los nombres de los participantes
 En el archivo de texto `/data/Participantes.txt`
 
    Nota. Incluir un nombre por línea. Debe haber al menos 25 nombres *(aún tengo que arreglar esto)*
 
+***
+
 
 ### Cómo cambiar los logos/imágenes de fondo
 Editar las imágenes PNG en la carpeta `/data/backgrounds`
+
+
+***
+
 
 ### Mini tutorial
 #### Control de partida
@@ -50,16 +58,22 @@ Pulsar `Guardar y enviar a Próximo Juego` para copiar los datos a la pestaña *
 Genera emparejamientos aleatorios, borrando el torneo actual.
 
 
-##### Workflow, dinámica de uso en competición
+***
+
+
+#### Workflow, dinámica de uso en competición
 Una vez generado el torneo,
 
 **Programar torneo** --> `Partida siguiente` --> `Guardar y enviar a Próximo Juego`
 
 **Próximo juego** --> `Enviar a partida Actual`
 
-**Partida actual**  Lanzar el cronómetro
+**Partida actual** --> Lanzar el cronómetro
 
-**Programar torneo** Anotar ganador
+**Programar torneo** --> Anotar ganador
+
+
+***
 
 
 ##### To do list
@@ -67,6 +81,10 @@ Una vez generado el torneo,
   * Guardar múltiples torneos
   * Notificar confirmación antes de reiniciar el torneo
   * Mejoras en el workflow del programa
+  
+  
+  ***
+  
   
 2017 Héctor-G.
 
