@@ -24,19 +24,27 @@ Editar las imágenes PNG en la carpeta `/data/backgrounds`
 ### Mini tutorial
 #### Control de partida
 Para modificar el tiempo de ronda, escribir el número, `Aplicar` y `Reiniciar`.
+
 El icono de la campana sólo hace sonar la campana.
+
 Se puede seleccionar los jugadores que se muestran en `Modo PARTIDA`
+
 
 #### Configurar video
 Se puede proyectar imagen desde webcam en lugar del logo. Pulsa `Actualizar` para detectar las cámaras y selecciona una. En la parte inferior aparecerá una casilla para activar/desactivar el video.
 
+
 #### Próximo juego
 Se puede seleccionar los jugadores que se muestran en `Modo Próximo Juego`
+
 Pulsar `Aplicar a Partida Actual` para copiar los datos a la pestaña **Control de partida**
+
 
 #### Programar torneo
 Permite editar las partidas y guardarlas en la base de datos local.
+
 Pulsar `Guardar y enviar a Próximo Juego` para copiar los datos a la pestaña **Próximo juego**
+
 
 #### Generar nuevo torneo
 Genera emparejamientos aleatorios, borrando el torneo actual.
@@ -44,9 +52,13 @@ Genera emparejamientos aleatorios, borrando el torneo actual.
 
 ##### Workflow, dinámica de uso en competición
 Una vez generado el torneo,
+
 **Programar torneo** --> `Partida siguiente` --> `Guardar y enviar a Próximo Juego`
+
 **Próximo juego** --> `Enviar a partida Actual`
+
 **Partida actual**  Lanzar el cronómetro
+
 **Programar torneo** Anotar ganador
 
 
@@ -57,4 +69,5 @@ Una vez generado el torneo,
   * Mejoras en el workflow del programa
   
 2017 Héctor-G.
+
 MakersUPV
