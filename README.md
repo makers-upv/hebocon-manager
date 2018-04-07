@@ -75,6 +75,17 @@ Una vez generado el torneo,
 
 ***
 
+##### Plugins Processing
+Para poder ejecutar el hebocon manager se requiere de 3 pluggins de Processing:
+
+**Sound by The Processing Foundation
+**Video by The Processing Foundation
+**G4P by Peter Lager
+
+Instalar desde Sketch -> Importar Librería -> Añadir Librería
+
+
+***
 
 ##### To do list
   * Eliminar el mínimo de 25 participantes
