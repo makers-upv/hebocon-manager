@@ -16,7 +16,7 @@ import g4p_controls.*;
 //**********  VARIABLES  ***************************
 
 public final int MAX_PLAYERS = 100; //Por ahora el tope es 25
-public final int TWEAKFPS = 30; //Bajarlo si la cuenta atrás va muy lenta
+public final int TWEAKFPS = 15; //Bajarlo si la cuenta atrás va muy lenta
 public final int DEFAULT_PLAYERS_PER_ROUND = 2;
 public final float DEFAULT_ROUND_TIME = 60.0;
 public int[] etapa = {0,12,6,3,1}; //Nº partidas por fase
